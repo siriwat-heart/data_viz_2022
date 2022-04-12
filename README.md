@@ -9,7 +9,7 @@
 | **623020765-0** | **นายศิริวัฒน์ ภูลำสัตย์** | **SC-SI** |
 | 623021054-8 | นางสาววนิศรา จงใจ | SC-SI |
 * [Power Point](https://www.canva.com/design/DAE73gXUbfw/tCQ8UlYpTjr9PnVPyEohoQ/edit)
-* [Dash Board](https://datastudio.google.com/u/1/reporting/7bb276d8-72df-49a9-9fd2-e491f1214d71/page/qW9pC)
+* [Dash Board](https://datastudio.google.com/u/0/reporting/7bb276d8-72df-49a9-9fd2-e491f1214d71/page/qW9pC?fbclid=IwAR2f9hT5gFMKATp40SSOBV4zufgYxmH5kbw9hPS6BW99hKkYQjAFeCZ9YU8)
 ---
 ### :point_right: Final กลุ่ม
 ##### Group Name : alphabetical
@@ -20,4 +20,4 @@
 | **623020765-0** | **นายศิริวัฒน์ ภูลำสัตย์** | **SC-SI** |
 | 623021001-9 | นางสาวนริศรา ชัยฤทธิ์ | SC-STAT |
 * [Data pre-processing](https://github.com/siriwat-heart/data_viz_2022/blob/main/FinalExam_DataViz.ipynb)
-* [Dash Board](https://datastudio.google.com/u/1/reporting/2e5e6fec-b0f3-4862-ba0c-be48787ec82d/page/XwDqC)
+* [Dash Board](https://datastudio.google.com/u/1/reporting/2e5e6fec-b0f3-4862-ba0c-be48787ec82d/page/XwDqC?fbclid=IwAR3jara_k-y-Q_krUyT-6JJ28cySK2mRbkvLWLMu1tR0ILTlagKO-HUDtOk)
